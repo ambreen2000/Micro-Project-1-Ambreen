@@ -1,0 +1,85 @@
+.container1 {
+    float: left;
+    margin: 0px;
+    width: 100%;
+    background-color: #FFCD9E;
+}
+
+.column {
+    width: 46%;
+    float: left;
+}
+
+.container1 img {
+    object-fit: contain;
+    padding: 50px 70px;
+    height: 400px;
+    width: 400px;
+}
+
+#text {
+    padding: 90px 0px 50px 50px;
+    height: 50vh;
+    margin: 10px;
+    border: 0px;
+}
+
+.para {
+    font-size: 15px;
+    color: white;
+    padding: 0px 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.container2 {
+    font-size: 20px;
+    float: left;
+    width: 100%;
+    background-color: #282828;
+}
+
+.bottom-column {
+    float: left;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#left-list {
+    width: 50%;
+    margin: 50px;
+    padding: 0px;
+    border: 0px;
+}
+
+#right-list {
+    width: 30%;
+    margin: 0px;
+    padding: 35px;
+    border: 0px;
+    text-align: right;
+
+}
+
+input {
+    border: solid 2px black;
+    border-radius: 3px;
+    width: 250px;
+    height: 45px;
+    padding: 0px 10px;
+}
+
+button {
+    color: white;
+    height: 45px;
+    background-color: #282828;
+    border-radius: 3px;
+    width: 200px;
+    height: 45px;
+    padding: 5px;
+}
